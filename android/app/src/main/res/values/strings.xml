@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">React Native Existing App Example</string>
+    <string name="bt_react_native1">Go to React Native view 1</string>
+    <string name="bt_react_native2">Go to React Native view 2</string>
+</resources>
