@@ -1,0 +1,14 @@
+{
+  "name": "react-native-existing-app-example",
+  "version": "1.0.0",
+  "description": "An example for integrating react native into ios and android",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "Josh Kasuboski",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.41.2"
+  }
+}
